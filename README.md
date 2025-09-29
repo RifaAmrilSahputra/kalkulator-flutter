@@ -16,6 +16,7 @@ Mendukung operasi aritmatika dasar, persentase, perhitungan berantai, dan dileng
 
 ## 📸 Tangkapan Layar
 <img src="./lib/tampilan.jpeg" alt="Tampilan Utama" width="200"/>
+
 ---
 
 ## 🚀 Cara Pakai
