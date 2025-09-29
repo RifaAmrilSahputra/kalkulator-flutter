@@ -1,16 +1,43 @@
-# kalkulator
+# 📱 Aplikasi Kalkulator Flutter
 
-A new Flutter project.
+Aplikasi kalkulator sederhana dengan tampilan modern yang dibuat menggunakan **Flutter**.  
+Mendukung operasi aritmatika dasar, persentase, perhitungan berantai, dan dilengkapi dengan **riwayat perhitungan**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur
+- 🧮 Operasi dasar: tambah, kurang, kali, bagi, persen
+- 🔗 Perhitungan berantai (menggunakan hasil sebelumnya untuk perhitungan selanjutnya)
+- 📜 Riwayat perhitungan bergulir
+- 🎨 Tampilan dark mode yang modern dengan tombol bulat
+- ⚡ Performa ringan dan responsif
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Tangkapan Layar
+*(Tambahkan screenshot setelah dijalankan di emulator/perangkat)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Cara Pakai
+
+Cara pakenya? gampang banget! 😁
+
+1. **Kloning repo ini dulu**
+   ```bash
+   git clone https://github.com/RifaAmrilSahputra/kalkulator-flutter.git
+   cd kalkulator-flutter
+   ```
+
+2. **Ambil semua dependency yang dibutuhkan**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Jalankan Aplikasi**
+   ```bash
+   flutter run
+   ```
+
+Dan beehh 🎉 langsung jalan kalkulator nya di emulatormu!. 
+Gampang kan, gampang lah, masa gak.
