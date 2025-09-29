@@ -15,7 +15,7 @@ Mendukung operasi aritmatika dasar, persentase, perhitungan berantai, dan dileng
 ---
 
 ## 📸 Tangkapan Layar
-*(Tambahkan screenshot setelah dijalankan di emulator/perangkat)*
+![Tampilan Utama](./lib/tampilan.jpeg)
 
 ---
 
